@@ -1,0 +1,15 @@
+{
+  "name": "JSAdvanced_Lesson_2",
+  "version": "1.0.0",
+  "description": "Beetroot JavaScript advanced",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel  -p 4000 index.html *.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "browserslist": [
+    "last 1 Chrome versions"
+  ]
+}
